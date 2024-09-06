@@ -1,7 +1,7 @@
 # Projeto-Plataforma-de-Monitoramento-de-Refei-es-e-Nutri-o
-
-Curriculos:
-Raphale Grizola - desempregado
-Danilove - GogoBoy
-Bassachi - revedendor avon
-Jack - Profissional do tigrinho
+\n
+Curriculos:\n
+Raphale Grizola - desempregado\n
+Danilove - GogoBoy\n
+Bassachi - revedendor avon\n
+Jack - Profissional do tigrinho\n
