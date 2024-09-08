@@ -1,1 +1,1 @@
-# Projeto Plataforma de Monitoramento de Refeicoes e Nutricao
+# Projeto Plataforma de Monitoramento de Refeições e Nutrição
